@@ -22,7 +22,7 @@ Listen Attend And Spell 모델을 통한 음성인식으로 NIA AI 데이터 구
 | library      | version      |                           |
 | ------------ | ------------ | ------------------------- |
 | torch        | 1.10.0+cu111 |                           |
-| torchaudio   | 1.10.0+cu111 |                           |
+| torchaudio   | 0.10.0+cu111 |                           |
 | numpy        | 1.19.5       |                           |
 | pandas       | 1.1.5        |                           |
 | omegaconf    | 2.1.1        | !pip install omegaconf    |
@@ -83,8 +83,8 @@ Listen Attend And Spell 모델을 통한 음성인식으로 NIA AI 데이터 구
 
 ```
     AI CONNECT
-    ├── sample_submission.csv
     ├── working_folder #실행 위치
+    │   ├── sample_submission.csv
     │   ├── base_builder
     │   │   ├── model_builder.py
     │   ├── base_model
