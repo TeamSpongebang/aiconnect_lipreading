@@ -15,7 +15,7 @@ Listen Attend And Spell 모델을 통한 음성인식으로 NIA AI 데이터 구
 
 ### Pytorch 설치 
 
-공식 pytorch 홈페이지의 [설치 페이지](https://pytorch.org/get-started/previous-versions/#v160)에 들어가서 알맞은 환경의 torch 1.6 버전 설치 (CPU, GPU 모두 가능)
+공식 pytorch 홈페이지의 [설치 페이지](https://pytorch.org/get-started/previous-versions/#v160)에 들어가서 알맞은 환경의 torch 1.10 버전 설치
 
 ### 사용 라이브러리
 
